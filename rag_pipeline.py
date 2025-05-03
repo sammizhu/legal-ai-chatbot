@@ -10,7 +10,8 @@ client = Together(api_key="tgp_v1_4Dgcnv-_rmTV4EIDl48zUpT2FmtcCHV3aGOtm2R9mwU")
 # 2. Helper to get embeddings from TogetherAI
 def get_embedding(text):
     resp = client.embeddings.create(
-        model="togethercomputer/m2-bert-80M-8k-retrieval", 
+        model="togethercomputer/m2-bert-80M-8k-retrieval",
+        input=[text] 
     )
     return np.array(resp.data[0].embedding, dtype=np.float32)
 
