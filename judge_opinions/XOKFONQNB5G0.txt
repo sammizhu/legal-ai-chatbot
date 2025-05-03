@@ -1,0 +1,29 @@
+Court: USCCPA_W
+Title: The Monongahela Navigation Co. v. The Steam Tug "Bob Connell" and others.
+Date: March 5, 1880.
+Judge: MCKENNAN, J.
+
+James I. Kay, for libellant.
+
+
+
+P. C. Knox, J. & J. H. Barton and J. H. Miller, for respondents.
+
+
+MCKENNAN, J. In view of the growing tendency of the decisions of the supreme court towards the expansion of admiralty jurisdiction in this country, I think a claim for lockage in a public navigable river may properly be regarded as a subject of a maritime nature, and so cognizable by a court of admiralty. It has not been authoritatively so classified, but the reasons for such classification apply as decisively to it as to other recognized subjects of admiralty cognizance. Lockage is a service which is purely maritime, and which respects rights and duties appertaining to commerce and navigation; and, as necessary to the use of artificial appliances by which navigation is facilitated, it is not only beneficial to commerce, but is indispensable to enable vessels engaged in it to proceed on their voyage.
+
+I have no doubt, therefore, from the nature of the appellant's claim, that it is within the general jurisdiction of the district court as a court of admiralty.
+
+How may it be enforced, by a libel in rem or in personam? If the former, it can only be on the basis of a lien against the vessel to which credit was given. A lien arises:
+
+1. By virtue of the general maritime law, in view of the nature of the claim or service, and the circumstances surrounding it.
+
+2. By virtue of a local statute expressly creating it.
+
+As to the latter of these classes it is only necessary to say [*219] that a contract for lockage is not specially secured by any statute in Pennsylvania, and hence that the claim here has no statutory lien.
+
+Nor has it any stronger foothold in the general maritime law. From The General Smith, in 4 Wheaton, 438-443 , down through a long series of cases to The Lottawana, in 21 Wallace, 558 , the supreme court has adhered to the rule that a lien is not incident to materials, or supplies, or maritime service, furnished to a vessel in her home port, which is defined to be any place within the limits of the state to which the vessel belongs. Repeated efforts have been made to shake these decisions, as resting upon an irrational distinction between domestic and foreign vessels, but the court has firmly adhered to them. In The Lottawana, 578, an impressive effort was made in this direction, but the court met it by saying: "And according to the maritime law, as accepted and received in this country, we feel bound to declare that no such lien exists as is claimed by the appellees in this case. The adjudications in this court before referred to, which it is unnecessary to review, are conclusive on this subject; and we see no sufficient ground for disturbing them." So, also, in Ex parte Easton, 95 U. S. 69-75 , it is affirmed that a lien for wharfage furnished to a domestic vessel does not exist. The court said: "These remarks * * * are abundantly sufficient to demonstrate that the contract for wharfage is a maritime contract, for which, if the vessel or water craft is a foreign one, or belongs to a port of a state other than that where the wharf is situated, a maritime lien arises against the ship or vessel in favor of the proprietor of the wharf." It cannot be doubted that lockage is of the same general nature and in the same category with the claims involved in these cases, and hence that like conditions are essential in all of them to the existence of a lien upon the vessel on whose credit they are supplied.
+
+The vessel in this case was owned at Pittsburgh, and that was her home port. The claim in question is for lockage service in passing the vessel through locks in the Monongahela river, within the state of Pennsylvania, erected and [*220] owned by the Monongahela Navigation Company. It is thus a service rendered to the vessel at her home port, compensation for which is not enforceable by a libel in rem.
+
+As the fund for distribution arising from the sale of the vessel was insufficient to cover the liens upon it, the appellant's claim was rightfully excluded from any participation in it, and its intervening libel must, therefore, be dismissed, with costs, and it is so ordered.
