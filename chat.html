@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Legal Chatbot</title>
+  <style>
+    body { font-family: sans-serif; background: #f9fafb; margin: 0; }
+    .container { max-width: 600px; margin: 40px auto; background: #fff; border-radius: 8px; box-shadow: 0 2px 8px #0001; padding: 24px; }
+    .chat-box { min-height: 300px; border: 1px solid #eee; border-radius: 8px; background: #fafbfc; padding: 16px; margin-bottom: 16px; overflow-y: auto; }
+    .msg { margin: 12px 0; }
+    .user { text-align: right; }
+    .bot { text-align: left; }
+    .bubble { display: inline-block; padding: 10px 16px; border-radius: 16px; max-width: 70%; word-break: break-word; }
+    .user .bubble { background: #e0e7ff; color: #222; }
+    .bot .bubble { background: #e2e8f0; color: #222; }
+    .input-row { display: flex; gap: 8px; }
+    input[type=text] { flex: 1; padding: 10px; border-radius: 8px; border: 1px solid #ccc; }
+    button { padding: 10px 18px; border-radius: 8px; border: none; background: #6366f1; color: #fff; font-weight: 600; cursor: pointer; }
+    button:disabled { background: #a5b4fc; cursor: not-allowed; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 style="text-align:center;">Legal Chatbot</h1>
+    <div class="chat-box" id="chatBox">
+      <div id="emptyMsg" style="color:#888;text-align:center;">Ask a legal question to get started.</div>
+    </div>
+    <form id="chatForm" class="input-row">
+      <input type="text" id="userInput" placeholder="Type your question..." autocomplete="off" required />
+      <button type="submit">Send</button>
+    </form>
+  </div>
+  <script>
+    const chatBox = document.getElementById('chatBox');
+    const chatForm = document.getElementById('chatForm');
+    const userInput = document.getElementById('userInput');
+    const emptyMsg = document.getElementById('emptyMsg');
+    let loading = false;
+
+    function addMessage(sender, text) {
+      if (emptyMsg) emptyMsg.style.display = 'none';
+      const msgDiv = document.createElement('div');
+      msgDiv.className = 'msg ' + sender;
+      const bubble = document.createElement('span');
+      bubble.className = 'bubble';
+      bubble.innerText = text;
+      msgDiv.appendChild(bubble);
+      chatBox.appendChild(msgDiv);
+      chatBox.scrollTop = chatBox.scrollHeight;
+    }
+
+    chatForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      if (loading) return;
+      const text = userInput.value.trim();
+      if (!text) return;
+      addMessage('user', text);
+      userInput.value = '';
+      loading = true;
+      addMessage('bot', 'Bot is thinking...');
+      try {
+        const res = await fetch('/ask', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ question: text })
+        });
+        const data = await res.json();
+        // Remove 'Bot is thinking...' message
+        chatBox.removeChild(chatBox.lastChild);
+        addMessage('bot', data.answer);
+      } catch {
+        chatBox.removeChild(chatBox.lastChild);
+        addMessage('bot', 'Error: Could not connect to backend.');
+      } finally {
+        loading = false;
+      }
+    });
+  </script>
+</body>
+</html>

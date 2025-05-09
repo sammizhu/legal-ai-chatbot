@@ -1,6 +1,7 @@
 import json
 import os
 import numpy as np
+import pickle
 from together import Together
 import faiss
 
@@ -15,26 +16,19 @@ def get_embedding(text):
     )
     return np.array(resp.data[0].embedding, dtype=np.float32)
 
-# 3. Load and embed legal opinions
-cases = []
-case_embeddings = []
+# 3. Always load precomputed embeddings and data
+# Load cases
 with open("legal_opinion_chunks.json") as f:
-    for line in f:
-        case = json.loads(line)
-        cases.append(case)
-        case_embeddings.append(get_embedding(case['text']))
+    cases = [json.loads(line) for line in f if line.strip()]
+# Load case embeddings
+case_embeddings = np.load("case_embeddings.npy")
 
-case_embeddings = np.vstack(case_embeddings)
-
-# 4. Load and embed judge profiles
-judges = []
-judge_embeddings = []
+# Load judges
 with open("judge_profiles.json") as f:
     judges = json.load(f)
-    for judge in judges:
-        profile_text = json.dumps(judge)
-        judge_embeddings.append(get_embedding(profile_text))
-judge_embeddings = np.vstack(judge_embeddings)
+# Load judge embeddings
+judge_embeddings = np.load("judge_embeddings.npy")
+
 
 # 5. Build FAISS indices
 case_index = faiss.IndexFlatL2(case_embeddings.shape[1])
