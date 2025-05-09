@@ -3,7 +3,10 @@ from together import Together
 import os
 
 # client = Together(api_key=os.environ.get("TOGETHER_API_KEY"))
-client = Together(api_key="tgp_v1_4Dgcnv-_rmTV4EIDl48zUpT2FmtcCHV3aGOtm2R9mwU")
+api_key = os.environ.get("TOGETHER_API_KEY")
+if not api_key:
+    raise RuntimeError("TOGETHER_API_KEY environment variable not set!")
+client = Together(api_key=api_key)
 
 # Upload the generated training data
 response = client.files.upload(file="training_data.jsonl")

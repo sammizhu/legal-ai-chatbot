@@ -6,7 +6,10 @@ from together import Together
 import faiss
 
 # 1. Setup TogetherAI client
-client = Together(api_key="tgp_v1_4Dgcnv-_rmTV4EIDl48zUpT2FmtcCHV3aGOtm2R9mwU")
+api_key = os.environ.get("TOGETHER_API_KEY")
+if not api_key:
+    raise RuntimeError("TOGETHER_API_KEY environment variable not set!")
+client = Together(api_key=api_key)
 
 # 2. Helper to get embeddings from TogetherAI
 def get_embedding(text):
