@@ -60,7 +60,7 @@
       loading = true;
       addMessage('bot', 'Bot is thinking...');
       try {
-        const res = await fetch('/ask', {
+        const res = await fetch('/chat', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ question: text })

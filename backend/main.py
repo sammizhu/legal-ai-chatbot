@@ -8,6 +8,13 @@ from rag_pipeline import answer_query
 
 app = FastAPI()
 
+from fastapi.responses import FileResponse
+
+# Serve chat.html at the root endpoint
+@app.get("/")
+def serve_chat_html():
+    return FileResponse("chat.html")
+
 # Allow frontend requests (adjust origins as needed)
 app.add_middleware(
     CORSMiddleware,
