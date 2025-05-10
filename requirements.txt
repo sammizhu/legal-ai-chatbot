@@ -4,3 +4,4 @@ faiss-cpu
 together
 numpy
 pydantic
+python-dotenv

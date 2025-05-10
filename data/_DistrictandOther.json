@@ -1,0 +1,1782 @@
+[
+  {
+    "songername":"ACKERMAN, JAMES WALDO",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of illinois",
+    "AppointmentDate":"02jul1976",
+    "TerminationDate":"31mar1979",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"ACKERMAN, JAMES WALDO",
+    "Term":2,
+    "courtname":"u. s. district court, central district of illinois",
+    "AppointmentDate":"31mar1979",
+    "TerminationDate":"23nov1984",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"ADAMS, GEORGE",
+    "Term":1,
+    "courtname":"u. s. district court, district of mississippi",
+    "AppointmentDate":"20jan1836",
+    "TerminationDate":"18jun1838",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"ADAMS, GEORGE",
+    "Term":2,
+    "courtname":"u. s. district court, northern district of mississippi",
+    "AppointmentDate":"18jun1838",
+    "TerminationDate":"30sep1838",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"ADAMS, GEORGE",
+    "Term":3,
+    "courtname":"u. s. district court, southern district of mississippi",
+    "AppointmentDate":"18jun1838",
+    "TerminationDate":"30sep1838",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BAKER, HAROLD A.",
+    "Term":1,
+    "courtname":"u. s. district court, eastern district of illinois",
+    "AppointmentDate":"23sep1978",
+    "TerminationDate":"31mar1979",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BAKER, HAROLD A.",
+    "Term":2,
+    "courtname":"u. s. district court, central district of illinois",
+    "AppointmentDate":"31mar1979",
+    "TerminationDate":null,
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BALTZELL, ROBERT C.",
+    "Term":1,
+    "courtname":"u. s. district court, district of indiana",
+    "AppointmentDate":"13jan1925",
+    "TerminationDate":"21apr1928",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BALTZELL, ROBERT C.",
+    "Term":2,
+    "courtname":"u. s. district court, southern district of indiana",
+    "AppointmentDate":"21apr1928",
+    "TerminationDate":"18oct1950",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BILLINGS, EDWARD COKE",
+    "Term":1,
+    "courtname":"u. s. district court, district of louisiana",
+    "AppointmentDate":"10feb1876",
+    "TerminationDate":"03mar1881",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BILLINGS, EDWARD COKE",
+    "Term":2,
+    "courtname":"u. s. district court, eastern district of louisiana",
+    "AppointmentDate":"03mar1881",
+    "TerminationDate":"01dec1893",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BLACK, LLOYD LLEWELLYN",
+    "Term":1,
+    "courtname":"u. s. district court, western district of washington",
+    "AppointmentDate":"11aug1939",
+    "TerminationDate":"23aug1950",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BLACK, LLOYD LLEWELLYN",
+    "Term":2,
+    "courtname":"u. s. district court, eastern district of washington",
+    "AppointmentDate":"20jan1940",
+    "TerminationDate":"23aug1950",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Assignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BOE, NILS ANDREAS",
+    "Term":1,
+    "courtname":"u. s. customs court",
+    "AppointmentDate":"10aug1971",
+    "TerminationDate":"01nov1980",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"u. s. customs court"
+  },
+  {
+    "songername":"BOE, NILS ANDREAS",
+    "Term":2,
+    "courtname":"u. s. court of international trade",
+    "AppointmentDate":"01nov1980",
+    "TerminationDate":"30jul1992",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"u. s. court of international trade"
+  },
+  {
+    "songername":"BRONSON, ISAAC HOPKINS",
+    "Term":1,
+    "courtname":"u. s. district court, district of florida",
+    "AppointmentDate":"08aug1846",
+    "TerminationDate":"23feb1847",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BRONSON, ISAAC HOPKINS",
+    "Term":2,
+    "courtname":"u. s. district court, northern district of florida",
+    "AppointmentDate":"23feb1847",
+    "TerminationDate":"13aug1855",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BROOKS, GEORGE WASHINGTON",
+    "Term":1,
+    "courtname":"u. s. district courts, albemarle, cape fear & pamptico districts of north carolina",
+    "AppointmentDate":"22jan1866",
+    "TerminationDate":"04jun1872",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BROOKS, GEORGE WASHINGTON",
+    "Term":2,
+    "courtname":"u. s. district court, eastern district of north carolina",
+    "AppointmentDate":"04jun1872",
+    "TerminationDate":"06jan1882",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BROWN, MORGAN WELLES",
+    "Term":1,
+    "courtname":"u. s. district court, eastern district of tennessee",
+    "AppointmentDate":"03jan1834",
+    "TerminationDate":"07mar1853",
+    "Circuitjudge":6,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BROWN, MORGAN WELLES",
+    "Term":2,
+    "courtname":"u. s. district court, western district of tennessee",
+    "AppointmentDate":"03jan1834",
+    "TerminationDate":"07mar1853",
+    "Circuitjudge":6,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BROWN, MORGAN WELLES",
+    "Term":3,
+    "courtname":"u. s. district court, middle district of tennessee",
+    "AppointmentDate":"18jun1839",
+    "TerminationDate":"07mar1853",
+    "Circuitjudge":6,
+    "partyaffiliationofpresident":"Assignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BYRNE, WILLIAM MATTHEW, SR.",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of california",
+    "AppointmentDate":"21dec1950",
+    "TerminationDate":"18sep1966",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"BYRNE, WILLIAM MATTHEW, SR.",
+    "Term":2,
+    "courtname":"u. s. district court, central district of california",
+    "AppointmentDate":"18sep1966",
+    "TerminationDate":"09mar1974",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"CARR, CHARLES H.",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of california",
+    "AppointmentDate":"14aug1962",
+    "TerminationDate":"18sep1966",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"CARR, CHARLES H.",
+    "Term":2,
+    "courtname":"u. s. district court, central district of california",
+    "AppointmentDate":"18sep1966",
+    "TerminationDate":"13mar1976",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"CLARKE, THURMOND",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of california",
+    "AppointmentDate":"03aug1955",
+    "TerminationDate":"18sep1966",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"CLARKE, THURMOND",
+    "Term":2,
+    "courtname":"u. s. district court, central district of california",
+    "AppointmentDate":"18sep1966",
+    "TerminationDate":"28feb1971",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"CRARY, ELISHA AVERY",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of california",
+    "AppointmentDate":"28aug1962",
+    "TerminationDate":"18sep1966",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"CRARY, ELISHA AVERY",
+    "Term":2,
+    "courtname":"u. s. district court, central district of california",
+    "AppointmentDate":"18sep1966",
+    "TerminationDate":"28apr1978",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"CRAWFORD, WILLIAM",
+    "Term":1,
+    "courtname":"u. s. district court, northern district of alabama",
+    "AppointmentDate":"22may1826",
+    "TerminationDate":"28feb1849",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Jeffersonian Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"CRAWFORD, WILLIAM",
+    "Term":2,
+    "courtname":"u. s. district court, southern district of alabama",
+    "AppointmentDate":"22may1826",
+    "TerminationDate":"28feb1849",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Jeffersonian Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"CRAWFORD, WILLIAM",
+    "Term":3,
+    "courtname":"u. s. district court, middle district of alabama",
+    "AppointmentDate":"06feb1839",
+    "TerminationDate":"28feb1849",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Assignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"CROCKER, MYRON D.",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of california",
+    "AppointmentDate":"21sep1959",
+    "TerminationDate":"18sep1966",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"CROCKER, MYRON D.",
+    "Term":2,
+    "courtname":"u. s. district court, eastern district of california",
+    "AppointmentDate":"18sep1966",
+    "TerminationDate":"02feb2010",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"CURTIS, JESSE WILLIAM, JR.",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of california",
+    "AppointmentDate":"27aug1962",
+    "TerminationDate":"18sep1966",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"CURTIS, JESSE WILLIAM, JR.",
+    "Term":2,
+    "courtname":"u. s. district court, central district of california",
+    "AppointmentDate":"18sep1966",
+    "TerminationDate":"05feb1990",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"DICK, JOHN MCCLINTOCK",
+    "Term":1,
+    "courtname":"u. s. district court, district of louisiana",
+    "AppointmentDate":"02mar1821",
+    "TerminationDate":"03mar1823",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Jeffersonian Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"DICK, JOHN MCCLINTOCK",
+    "Term":2,
+    "courtname":"u. s. district court, eastern district of louisiana",
+    "AppointmentDate":"03mar1823",
+    "TerminationDate":"23apr1824",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"DICK, JOHN MCCLINTOCK",
+    "Term":3,
+    "courtname":"u. s. district court, western district of louisiana",
+    "AppointmentDate":"03mar1823",
+    "TerminationDate":"23apr1824",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"DURELL, EDWARD HENRY",
+    "Term":1,
+    "courtname":"u. s. district court, eastern district of louisiana",
+    "AppointmentDate":"17feb1864",
+    "TerminationDate":"27jul1866",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"DURELL, EDWARD HENRY",
+    "Term":2,
+    "courtname":"u. s. district court, district of louisiana",
+    "AppointmentDate":"27jul1866",
+    "TerminationDate":"04dec1874",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"EVANS, WALTER",
+    "Term":1,
+    "courtname":"u. s. district court, district of kentucky",
+    "AppointmentDate":"03mar1899",
+    "TerminationDate":"01jul1901",
+    "Circuitjudge":6,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"EVANS, WALTER",
+    "Term":2,
+    "courtname":"u. s. district court, western district of kentucky",
+    "AppointmentDate":"01jul1901",
+    "TerminationDate":"30dec1923",
+    "Circuitjudge":6,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"FORD, MORGAN DENNIS",
+    "Term":1,
+    "courtname":"u. s. customs court",
+    "AppointmentDate":"15jul1949",
+    "TerminationDate":"01nov1980",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"u. s. customs court"
+  },
+  {
+    "songername":"FORD, MORGAN DENNIS",
+    "Term":2,
+    "courtname":"u. s. court of international trade",
+    "AppointmentDate":"01nov1980",
+    "TerminationDate":"02jan1992",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"u. s. court of international trade"
+  },
+  {
+    "songername":"FOREMAN, JAMES L.",
+    "Term":1,
+    "courtname":"u. s. district court, eastern district of illinois",
+    "AppointmentDate":"07mar1972",
+    "TerminationDate":"31mar1979",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"FOREMAN, JAMES L.",
+    "Term":2,
+    "courtname":"u. s. district court, southern district of illinois",
+    "AppointmentDate":"31mar1979",
+    "TerminationDate":"03jun2012",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"GRAY, WILLIAM P.",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of california",
+    "AppointmentDate":"02jul1966",
+    "TerminationDate":"18sep1966",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"GRAY, WILLIAM P.",
+    "Term":2,
+    "courtname":"u. s. district court, central district of california",
+    "AppointmentDate":"18sep1966",
+    "TerminationDate":"10feb1992",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HALBERT, SHERRILL",
+    "Term":1,
+    "courtname":"u. s. district court, northern district of california",
+    "AppointmentDate":"26aug1954",
+    "TerminationDate":"18sep1966",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HALBERT, SHERRILL",
+    "Term":2,
+    "courtname":"u. s. district court, eastern district of california",
+    "AppointmentDate":"18sep1966",
+    "TerminationDate":"31may1991",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HALL, PEIRSON MITCHELL",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of california",
+    "AppointmentDate":"03jul1942",
+    "TerminationDate":"18sep1966",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HALL, PEIRSON MITCHELL",
+    "Term":2,
+    "courtname":"u. s. district court, central district of california",
+    "AppointmentDate":"18sep1966",
+    "TerminationDate":"08dec1979",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HANFORD, CORNELIUS HOLGATE",
+    "Term":1,
+    "courtname":"u. s. district court, district of washington",
+    "AppointmentDate":"25feb1890",
+    "TerminationDate":"02mar1905",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HANFORD, CORNELIUS HOLGATE",
+    "Term":2,
+    "courtname":"u. s. district court, western district of washington",
+    "AppointmentDate":"02mar1905",
+    "TerminationDate":"05aug1912",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HAUK, A. ANDREW",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of california",
+    "AppointmentDate":"29jun1966",
+    "TerminationDate":"18sep1966",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HAUK, A. ANDREW",
+    "Term":2,
+    "courtname":"u. s. district court, central district of california",
+    "AppointmentDate":"18sep1966",
+    "TerminationDate":"09nov2004",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HEMPHILL, ROBERT W.",
+    "Term":1,
+    "courtname":"u. s. district court, eastern district of south carolina",
+    "AppointmentDate":"30apr1964",
+    "TerminationDate":"01nov1965",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HEMPHILL, ROBERT W.",
+    "Term":2,
+    "courtname":"u. s. district court, western district of south carolina",
+    "AppointmentDate":"30apr1964",
+    "TerminationDate":"01nov1965",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HEMPHILL, ROBERT W.",
+    "Term":3,
+    "courtname":"u. s. district court, district of south carolina",
+    "AppointmentDate":"01nov1965",
+    "TerminationDate":"25dec1983",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HILL, IRVING",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of california",
+    "AppointmentDate":"10jun1965",
+    "TerminationDate":"18sep1966",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HILL, IRVING",
+    "Term":2,
+    "courtname":"u. s. district court, central district of california",
+    "AppointmentDate":"18sep1966",
+    "TerminationDate":"18mar1998",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HOFFMAN, OGDEN, JR.",
+    "Term":1,
+    "courtname":"u. s. district court, northern district of california",
+    "AppointmentDate":"27feb1851",
+    "TerminationDate":"27jul1866",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Whig",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HOFFMAN, OGDEN, JR.",
+    "Term":2,
+    "courtname":"u. s. district court, southern district of california",
+    "AppointmentDate":"31aug1852",
+    "TerminationDate":"18jan1854",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Assignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HOFFMAN, OGDEN, JR.",
+    "Term":3,
+    "courtname":"u. s. district court, district of california",
+    "AppointmentDate":"27jul1866",
+    "TerminationDate":"05aug1886",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HOFFMAN, OGDEN, JR.",
+    "Term":4,
+    "courtname":"u. s. district court, northern district of california",
+    "AppointmentDate":"05aug1886",
+    "TerminationDate":"09aug1891",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"JACKSON, JOHN JAY, JR.",
+    "Term":1,
+    "courtname":"u. s. district court, western district of virginia",
+    "AppointmentDate":"03aug1861",
+    "TerminationDate":"10jun1864",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"JACKSON, JOHN JAY, JR.",
+    "Term":2,
+    "courtname":"u. s. district court, district of west virginia",
+    "AppointmentDate":"11jun1864",
+    "TerminationDate":"01jul1901",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"JACKSON, JOHN JAY, JR.",
+    "Term":3,
+    "courtname":"u. s. district court, northern district of west virginia",
+    "AppointmentDate":"01jul1901",
+    "TerminationDate":"15mar1905",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"JONES, JOHN",
+    "Term":1,
+    "courtname":"court of claims",
+    "AppointmentDate":"20nov1940",
+    "TerminationDate":"09jul1947",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"court of claims"
+  },
+  {
+    "songername":"JONES, JOHN",
+    "Term":2,
+    "courtname":"court of claims, chief justice",
+    "AppointmentDate":"09jul1947",
+    "TerminationDate":"25may1948",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"court of claims"
+  },
+  {
+    "songername":"JONES, JOHN",
+    "Term":3,
+    "courtname":"court of claims, chief judge",
+    "AppointmentDate":"25may1948",
+    "TerminationDate":"04mar1976",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"court of claims"
+  },
+  {
+    "songername":"JUERGENS, WILLIAM G.",
+    "Term":1,
+    "courtname":"u. s. district court, eastern district of illinois",
+    "AppointmentDate":"22jun1956",
+    "TerminationDate":"30mar1979",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"JUERGENS, WILLIAM G.",
+    "Term":2,
+    "courtname":"u. s. district court, southern district of illinois",
+    "AppointmentDate":"31mar1979",
+    "TerminationDate":"07dec1988",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"KENNAMER, FRANKLIN ELMORE",
+    "Term":1,
+    "courtname":"u. s. district court, eastern district of oklahoma",
+    "AppointmentDate":"19feb1924",
+    "TerminationDate":"16feb1925",
+    "Circuitjudge":10,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"KENNAMER, FRANKLIN ELMORE",
+    "Term":2,
+    "courtname":"u. s. district court, northern district of oklahoma",
+    "AppointmentDate":"16feb1925",
+    "TerminationDate":"01may1960",
+    "Circuitjudge":10,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"KIDD, WILLIAM MATTHEW",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of west virginia",
+    "AppointmentDate":"21dec1979",
+    "TerminationDate":"14jan1983",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"KIDD, WILLIAM MATTHEW",
+    "Term":2,
+    "courtname":"u. s. district court, northern district of west virginia",
+    "AppointmentDate":"14jan1983",
+    "TerminationDate":"20dec1998",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"LANDIS, FREDERICK",
+    "Term":1,
+    "courtname":"u. s. customs court",
+    "AppointmentDate":"16oct1965",
+    "TerminationDate":"01nov1980",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"u. s. customs court"
+  },
+  {
+    "songername":"LANDIS, FREDERICK",
+    "Term":2,
+    "courtname":"u. s. court of international trade",
+    "AppointmentDate":"01nov1980",
+    "TerminationDate":"01mar1990",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"u. s. court of international trade"
+  },
+  {
+    "songername":"LAWS, BOLITHA JAMES",
+    "Term":1,
+    "courtname":"u. s. district court for the district of columbia",
+    "AppointmentDate":"24jun1938",
+    "TerminationDate":"23feb1945",
+    "Circuitjudge":12,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"LAWS, BOLITHA JAMES",
+    "Term":2,
+    "courtname":"u. s. district court for the district of columbia, chief justice",
+    "AppointmentDate":"23feb1945",
+    "TerminationDate":"01sep1948",
+    "Circuitjudge":12,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"LAWS, BOLITHA JAMES",
+    "Term":3,
+    "courtname":"u. s. district court for the district of columbia",
+    "AppointmentDate":"01sep1948",
+    "TerminationDate":"14nov1958",
+    "Circuitjudge":12,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"LEAVITT, HUMPHREY HOWE",
+    "Term":1,
+    "courtname":"u. s. district court, district of ohio",
+    "AppointmentDate":"30jun1834",
+    "TerminationDate":"10feb1855",
+    "Circuitjudge":6,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"LEAVITT, HUMPHREY HOWE",
+    "Term":2,
+    "courtname":"u. s. district court, southern district of ohio",
+    "AppointmentDate":"10feb1855",
+    "TerminationDate":"01apr1871",
+    "Circuitjudge":6,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"LIEB, JOSEPH P.",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of florida",
+    "AppointmentDate":"02mar1956",
+    "TerminationDate":"29oct1962",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"LIEB, JOSEPH P.",
+    "Term":2,
+    "courtname":"u. s. district court, middle district of florida",
+    "AppointmentDate":"29oct1962",
+    "TerminationDate":"02nov1971",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"LOVE, JAMES M.",
+    "Term":1,
+    "courtname":"u. s. district court, district of iowa",
+    "AppointmentDate":"21dec1856",
+    "TerminationDate":"20jul1882",
+    "Circuitjudge":8,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"LOVE, JAMES M.",
+    "Term":2,
+    "courtname":"u. s. district court, southern district of iowa",
+    "AppointmentDate":"20jul1882",
+    "TerminationDate":"02jul1891",
+    "Circuitjudge":8,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MACBRIDE, THOMAS J.",
+    "Term":1,
+    "courtname":"u. s. district court, northern district of california",
+    "AppointmentDate":"22sep1961",
+    "TerminationDate":"18sep1966",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MACBRIDE, THOMAS J.",
+    "Term":2,
+    "courtname":"u. s. district court, eastern district of california",
+    "AppointmentDate":"18sep1966",
+    "TerminationDate":"06jan2000",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MALETZ, HERBERT NAAMAN",
+    "Term":1,
+    "courtname":"u. s. customs court",
+    "AppointmentDate":"16nov1967",
+    "TerminationDate":"01nov1980",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"u. s. customs court"
+  },
+  {
+    "songername":"MALETZ, HERBERT NAAMAN",
+    "Term":2,
+    "courtname":"u. s. court of international trade",
+    "AppointmentDate":"01nov1980",
+    "TerminationDate":"06jan2002",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"u. s. court of international trade"
+  },
+  {
+    "songername":"MARTIN, JAMES ROBERT, JR.",
+    "Term":1,
+    "courtname":"u. s. district court, eastern district of south carolina",
+    "AppointmentDate":"18sep1961",
+    "TerminationDate":"01nov1965",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MARTIN, JAMES ROBERT, JR.",
+    "Term":2,
+    "courtname":"u. s. district court, western district of south carolina",
+    "AppointmentDate":"18sep1961",
+    "TerminationDate":"01nov1965",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MARTIN, JAMES ROBERT, JR.",
+    "Term":3,
+    "courtname":"u. s. district court, district of south carolina",
+    "AppointmentDate":"01nov1965",
+    "TerminationDate":"14nov1984",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MCCALEB, THEODORE HOWARD",
+    "Term":1,
+    "courtname":"u. s. district court, eastern district of louisiana",
+    "AppointmentDate":"03sep1841",
+    "TerminationDate":"13feb1845",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Whig",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MCCALEB, THEODORE HOWARD",
+    "Term":2,
+    "courtname":"u. s. district court, western district of louisiana",
+    "AppointmentDate":"03sep1841",
+    "TerminationDate":"13feb1845",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Whig",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MCCALEB, THEODORE HOWARD",
+    "Term":3,
+    "courtname":"u. s. district court, district of louisiana",
+    "AppointmentDate":"13feb1845",
+    "TerminationDate":"03mar1849",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MCCALEB, THEODORE HOWARD",
+    "Term":4,
+    "courtname":"u. s. district court, eastern district of louisiana",
+    "AppointmentDate":"03mar1849",
+    "TerminationDate":"28jan1861",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MCNAIRY, JOHN",
+    "Term":1,
+    "courtname":"u. s. district court, district of tennessee",
+    "AppointmentDate":"20feb1797",
+    "TerminationDate":"29apr1802",
+    "Circuitjudge":6,
+    "partyaffiliationofpresident":" ",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MCNAIRY, JOHN",
+    "Term":2,
+    "courtname":"u. s. district court, eastern district of tennessee",
+    "AppointmentDate":"29apr1802",
+    "TerminationDate":"01sep1833",
+    "Circuitjudge":6,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MCNAIRY, JOHN",
+    "Term":3,
+    "courtname":"u. s. district court, western district of tennessee",
+    "AppointmentDate":"29apr1802",
+    "TerminationDate":"01sep1833",
+    "Circuitjudge":6,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MCRAE, WILLIAM A., JR.",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of florida",
+    "AppointmentDate":"08mar1961",
+    "TerminationDate":"29oct1962",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MCRAE, WILLIAM A., JR.",
+    "Term":2,
+    "courtname":"u. s. district court, middle district of florida",
+    "AppointmentDate":"29oct1962",
+    "TerminationDate":"27jan1973",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MILLER, ANDREW GALBRAITH",
+    "Term":1,
+    "courtname":"u. s. district court, district of wisconsin",
+    "AppointmentDate":"12jun1848",
+    "TerminationDate":"30jun1870",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MILLER, ANDREW GALBRAITH",
+    "Term":2,
+    "courtname":"u. s. district court, eastern district of wisconsin",
+    "AppointmentDate":"30jun1870",
+    "TerminationDate":"01jan1873",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MORGAN, ROBERT D.",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of illinois",
+    "AppointmentDate":"12jun1967",
+    "TerminationDate":"31mar1979",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MORGAN, ROBERT D.",
+    "Term":2,
+    "courtname":"u. s. district court, central district of illinois",
+    "AppointmentDate":"31mar1979",
+    "TerminationDate":"29may2002",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MORRIS, ROBERT",
+    "Term":1,
+    "courtname":"u. s. district court, district of new jersey",
+    "AppointmentDate":"20dec1790",
+    "TerminationDate":"13feb1801",
+    "Circuitjudge":3,
+    "partyaffiliationofpresident":" ",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MORRIS, ROBERT",
+    "Term":2,
+    "courtname":"u. s. district court for the eastern district of new jersey",
+    "AppointmentDate":"13feb1801",
+    "TerminationDate":"01jul1802",
+    "Circuitjudge":3,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MORRIS, ROBERT",
+    "Term":3,
+    "courtname":"u. s. district court for the western district of new jersey",
+    "AppointmentDate":"13feb1801",
+    "TerminationDate":"01jul1802",
+    "Circuitjudge":3,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MORRIS, ROBERT",
+    "Term":4,
+    "courtname":"u. s. district court, district of new jersey",
+    "AppointmentDate":"01jul1802",
+    "TerminationDate":"02jun1815",
+    "Circuitjudge":3,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"NEWMAN, BERNARD",
+    "Term":1,
+    "courtname":"u. s. customs court",
+    "AppointmentDate":"24jun1968",
+    "TerminationDate":"01nov1980",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"u. s. customs court"
+  },
+  {
+    "songername":"NEWMAN, BERNARD",
+    "Term":2,
+    "courtname":"u. s. court of international trade",
+    "AppointmentDate":"01nov1980",
+    "TerminationDate":"22apr1999",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"u. s. court of international trade"
+  },
+  {
+    "songername":"NICOLL, JOHN COCHRAN",
+    "Term":1,
+    "courtname":"u. s. district court, district of georgia",
+    "AppointmentDate":"17feb1840",
+    "TerminationDate":"11aug1848",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"NICOLL, JOHN COCHRAN",
+    "Term":2,
+    "courtname":"u. s. district court, northern district of georgia",
+    "AppointmentDate":"11aug1848",
+    "TerminationDate":"19jan1861",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"NICOLL, JOHN COCHRAN",
+    "Term":3,
+    "courtname":"u. s. district court, southern district of georgia",
+    "AppointmentDate":"11aug1848",
+    "TerminationDate":"19jan1861",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"PETERS, RICHARD",
+    "Term":1,
+    "courtname":"u. s. district court, district of pennsylvania",
+    "AppointmentDate":"12jan1792",
+    "TerminationDate":"20apr1818",
+    "Circuitjudge":3,
+    "partyaffiliationofpresident":" ",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"PETERS, RICHARD",
+    "Term":2,
+    "courtname":"u. s. district court, eastern district of pennsylvania",
+    "AppointmentDate":"20apr1818",
+    "TerminationDate":"22aug1828",
+    "Circuitjudge":3,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"RAO, PAUL PETER",
+    "Term":1,
+    "courtname":"u. s. customs court",
+    "AppointmentDate":"02feb1949",
+    "TerminationDate":"01nov1980",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"u. s. customs court"
+  },
+  {
+    "songername":"RAO, PAUL PETER",
+    "Term":2,
+    "courtname":"u. s. court of international trade",
+    "AppointmentDate":"01nov1980",
+    "TerminationDate":"30nov1988",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"u. s. court of international trade"
+  },
+  {
+    "songername":"RE, EDWARD DOMENIC",
+    "Term":1,
+    "courtname":"u. s. customs court",
+    "AppointmentDate":"04oct1968",
+    "TerminationDate":"01nov1980",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"u. s. customs court"
+  },
+  {
+    "songername":"RE, EDWARD DOMENIC",
+    "Term":2,
+    "courtname":"u. s. court of international trade",
+    "AppointmentDate":"01nov1980",
+    "TerminationDate":"30apr1991",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"u. s. court of international trade"
+  },
+  {
+    "songername":"RICHARDSON, SCOVEL",
+    "Term":1,
+    "courtname":"u. s. customs court",
+    "AppointmentDate":"08apr1957",
+    "TerminationDate":"01nov1980",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"u. s. customs court"
+  },
+  {
+    "songername":"RICHARDSON, SCOVEL",
+    "Term":2,
+    "courtname":"u. s. court of international trade",
+    "AppointmentDate":"01nov1980",
+    "TerminationDate":"30mar1982",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"u. s. court of international trade"
+  },
+  {
+    "songername":"RINGO, DANIEL",
+    "Term":1,
+    "courtname":"u. s. district court, district of arkansas",
+    "AppointmentDate":"10jun1850",
+    "TerminationDate":"03mar1851",
+    "Circuitjudge":8,
+    "partyaffiliationofpresident":"Whig",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"RINGO, DANIEL",
+    "Term":2,
+    "courtname":"u. s. district court, eastern district of arkansas",
+    "AppointmentDate":"03mar1851",
+    "TerminationDate":"06may1861",
+    "Circuitjudge":8,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"RINGO, DANIEL",
+    "Term":3,
+    "courtname":"u. s. district court, western district of arkansas",
+    "AppointmentDate":"03mar1851",
+    "TerminationDate":"06may1861",
+    "Circuitjudge":8,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"ROSENSTEIN, SAMUEL MURRAY",
+    "Term":1,
+    "courtname":"u. s. customs court",
+    "AppointmentDate":"25jul1968",
+    "TerminationDate":"01nov1980",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"u. s. customs court"
+  },
+  {
+    "songername":"ROSENSTEIN, SAMUEL MURRAY",
+    "Term":2,
+    "courtname":"u. s. court of international trade",
+    "AppointmentDate":"01nov1980",
+    "TerminationDate":"11dec1995",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"u. s. court of international trade"
+  },
+  {
+    "songername":"SIMONS, CHARLES E., JR.",
+    "Term":1,
+    "courtname":"u. s. district court, eastern district of south carolina",
+    "AppointmentDate":"01may1964",
+    "TerminationDate":"01nov1965",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"SIMONS, CHARLES E., JR.",
+    "Term":2,
+    "courtname":"u. s. district court, district of south carolina",
+    "AppointmentDate":"01nov1965",
+    "TerminationDate":"26oct1999",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"SITGREAVES, JOHN",
+    "Term":1,
+    "courtname":"u. s. district court, district of north carolina",
+    "AppointmentDate":"20dec1790",
+    "TerminationDate":"09jun1794",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":" ",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"SITGREAVES, JOHN",
+    "Term":2,
+    "courtname":"u. s. district courts, edenton, new bern & wilmington districts of north carolina",
+    "AppointmentDate":"09jun1794",
+    "TerminationDate":"03mar1797",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"SITGREAVES, JOHN",
+    "Term":3,
+    "courtname":"u. s. district court, district of north carolina",
+    "AppointmentDate":"03mar1797",
+    "TerminationDate":"13feb1801",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"SITGREAVES, JOHN",
+    "Term":4,
+    "courtname":"u. s. district courts, albemarle, cape fear & pamptico districts of north carolina",
+    "AppointmentDate":"13feb1801",
+    "TerminationDate":"04mar1802",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"SLICK, THOMAS W.",
+    "Term":1,
+    "courtname":"u. s. district court, district of indiana",
+    "AppointmentDate":"17feb1925",
+    "TerminationDate":"21apr1928",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"SLICK, THOMAS W.",
+    "Term":2,
+    "courtname":"u. s. district court, northern district of indiana",
+    "AppointmentDate":"21apr1928",
+    "TerminationDate":"16sep1943",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"SMITH, HENRY AUGUSTUS MIDDLETON",
+    "Term":1,
+    "courtname":"u. s. district court, district of south carolina",
+    "AppointmentDate":"07jun1911",
+    "TerminationDate":"01jan1912",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"SMITH, HENRY AUGUSTUS MIDDLETON",
+    "Term":2,
+    "courtname":"u. s. district court, western district of south carolina",
+    "AppointmentDate":"01jan1912",
+    "TerminationDate":"03mar1915",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"SMITH, HENRY AUGUSTUS MIDDLETON",
+    "Term":3,
+    "courtname":"u. s. district court, eastern district of south carolina",
+    "AppointmentDate":"01jan1912",
+    "TerminationDate":"23nov1924",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"STEPHENS, ALBERT LEE, JR.",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of california",
+    "AppointmentDate":"18sep1961",
+    "TerminationDate":"18sep1966",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"STEPHENS, ALBERT LEE, JR.",
+    "Term":2,
+    "courtname":"u. s. district court, central district of california",
+    "AppointmentDate":"18sep1966",
+    "TerminationDate":"06sep2001",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"TAIT, CHARLES",
+    "Term":1,
+    "courtname":"u. s. district court, district of alabama",
+    "AppointmentDate":"13may1820",
+    "TerminationDate":"10mar1824",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Jeffersonian Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"TAIT, CHARLES",
+    "Term":2,
+    "courtname":"u. s. district court, northern district of alabama",
+    "AppointmentDate":"10mar1824",
+    "TerminationDate":"01feb1826",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"TAIT, CHARLES",
+    "Term":3,
+    "courtname":"u. s. district court, southern district of alabama",
+    "AppointmentDate":"10mar1824",
+    "TerminationDate":"01feb1826",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"TALLMADGE, MATTHIAS BURNETT",
+    "Term":1,
+    "courtname":"u. s. district court, district of new york",
+    "AppointmentDate":"17jan1806",
+    "TerminationDate":"09apr1814",
+    "Circuitjudge":2,
+    "partyaffiliationofpresident":"Jeffersonian Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"TALLMADGE, MATTHIAS BURNETT",
+    "Term":2,
+    "courtname":"u. s. district court, northern district of new york",
+    "AppointmentDate":"09apr1814",
+    "TerminationDate":"01jul1819",
+    "Circuitjudge":2,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"TUCKER, ST. GEORGE",
+    "Term":1,
+    "courtname":"u. s. district court, district of virginia",
+    "AppointmentDate":"19jan1813",
+    "TerminationDate":"04feb1819",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Jeffersonian Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"TUCKER, ST. GEORGE",
+    "Term":2,
+    "courtname":"u. s. district court, eastern district of virginia",
+    "AppointmentDate":"04feb1819",
+    "TerminationDate":"30jun1825",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"UNDERWOOD, JOHN CURTISS",
+    "Term":1,
+    "courtname":"u. s. district court, eastern district of virginia",
+    "AppointmentDate":"25jan1864",
+    "TerminationDate":"11jun1864",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"UNDERWOOD, JOHN CURTISS",
+    "Term":2,
+    "courtname":"u. s. district court, district of virginia",
+    "AppointmentDate":"11jun1864",
+    "TerminationDate":"03feb1871",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"UNDERWOOD, JOHN CURTISS",
+    "Term":3,
+    "courtname":"u. s. district court, eastern district of virginia",
+    "AppointmentDate":"03feb1871",
+    "TerminationDate":"07dec1873",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"VAN NESS, WILLIAM PETER",
+    "Term":1,
+    "courtname":"u. s. district court, district of new york",
+    "AppointmentDate":"27may1812",
+    "TerminationDate":"09apr1814",
+    "Circuitjudge":2,
+    "partyaffiliationofpresident":"Jeffersonian Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"VAN NESS, WILLIAM PETER",
+    "Term":2,
+    "courtname":"u. s. district court, southern district of new york",
+    "AppointmentDate":"09apr1814",
+    "TerminationDate":"06sep1826",
+    "Circuitjudge":2,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"WATROUS, JOHN CHARLES",
+    "Term":1,
+    "courtname":"u. s. district court, district of texas",
+    "AppointmentDate":"29may1846",
+    "TerminationDate":"21feb1857",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"WATROUS, JOHN CHARLES",
+    "Term":2,
+    "courtname":"u. s. district court, eastern district of texas",
+    "AppointmentDate":"21feb1857",
+    "TerminationDate":"19apr1870",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"WATSON, JAMES L.",
+    "Term":1,
+    "courtname":"u. s. customs court",
+    "AppointmentDate":"07mar1966",
+    "TerminationDate":"01nov1980",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"u. s. customs court"
+  },
+  {
+    "songername":"WATSON, JAMES L.",
+    "Term":2,
+    "courtname":"u. s. court of international trade",
+    "AppointmentDate":"01nov1980",
+    "TerminationDate":"01sep2001",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"u. s. court of international trade"
+  },
+  {
+    "songername":"WELLS, ROBERT WILLIAM",
+    "Term":1,
+    "courtname":"u. s. district court, district of missouri",
+    "AppointmentDate":"27jun1836",
+    "TerminationDate":"03mar1857",
+    "Circuitjudge":8,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"WELLS, ROBERT WILLIAM",
+    "Term":2,
+    "courtname":"u. s. district court, western district of missouri",
+    "AppointmentDate":"03mar1857",
+    "TerminationDate":"22sep1864",
+    "Circuitjudge":8,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"WEST, ELMER GORDON",
+    "Term":1,
+    "courtname":"u. s. district court, eastern district of louisiana",
+    "AppointmentDate":"15sep1961",
+    "TerminationDate":"16apr1972",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"WEST, ELMER GORDON",
+    "Term":2,
+    "courtname":"u. s. district court, middle district of louisiana",
+    "AppointmentDate":"16apr1972",
+    "TerminationDate":"02nov1992",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"WHELAN, FRANCIS C.",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of california",
+    "AppointmentDate":"15sep1964",
+    "TerminationDate":"18sep1966",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"WHELAN, FRANCIS C.",
+    "Term":2,
+    "courtname":"u. s. district court, central district of california",
+    "AppointmentDate":"18sep1966",
+    "TerminationDate":"22aug1991",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"WILKINS, ROSS",
+    "Term":1,
+    "courtname":"u. s. district court, district of michigan",
+    "AppointmentDate":"26jan1837",
+    "TerminationDate":"24feb1863",
+    "Circuitjudge":6,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"WILKINS, ROSS",
+    "Term":2,
+    "courtname":"u. s. district court, eastern district of michigan",
+    "AppointmentDate":"24feb1863",
+    "TerminationDate":"18feb1870",
+    "Circuitjudge":6,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"WISE, HENRY S.",
+    "Term":1,
+    "courtname":"u. s. district court, eastern district of illinois",
+    "AppointmentDate":"21sep1966",
+    "TerminationDate":"31mar1979",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"WISE, HENRY S.",
+    "Term":2,
+    "courtname":"u. s. district court, central district of illinois",
+    "AppointmentDate":"31mar1979",
+    "TerminationDate":"16mar1982",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"WYCHE, CHARLES CECIL",
+    "Term":1,
+    "courtname":"u. s. district court, western district of south carolina",
+    "AppointmentDate":"30jan1937",
+    "TerminationDate":"01nov1965",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"WYCHE, CHARLES CECIL",
+    "Term":2,
+    "courtname":"u. s. district court, district of south carolina",
+    "AppointmentDate":"01nov1965",
+    "TerminationDate":"17sep1966",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"YANKWICH, LEON RENE",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of california",
+    "AppointmentDate":"24aug1935",
+    "TerminationDate":"18sep1966",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"YANKWICH, LEON RENE",
+    "Term":2,
+    "courtname":"u. s. district court, central district of california",
+    "AppointmentDate":"18sep1966",
+    "TerminationDate":"09feb1975",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"YOUNG, GEORGE CRESSLER",
+    "Term":1,
+    "courtname":"u. s. district court, northern district of florida",
+    "AppointmentDate":"18sep1961",
+    "TerminationDate":"17sep1966",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"YOUNG, GEORGE CRESSLER",
+    "Term":2,
+    "courtname":"u. s. district court, southern district of florida",
+    "AppointmentDate":"18sep1961",
+    "TerminationDate":"17sep1966",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"YOUNG, GEORGE CRESSLER",
+    "Term":3,
+    "courtname":"u. s. district court, middle district of florida",
+    "AppointmentDate":"29oct1962",
+    "TerminationDate":null,
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Assignment",
+    "courttype":"usdc"
+  }
+]
