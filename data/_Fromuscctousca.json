@@ -1,0 +1,392 @@
+[
+  {
+    "songername":"ACHESON, MARCUS W.",
+    "Term":1,
+    "courtname":"u. s. district court, western district of pennsylvania",
+    "AppointmentDate":"14jan1880",
+    "TerminationDate":"09feb1891",
+    "Circuitjudge":3,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"ACHESON, MARCUS W.",
+    "Term":2,
+    "courtname":"u. s. circuit courts for the third circuit",
+    "AppointmentDate":"03feb1891",
+    "TerminationDate":"21jun1906",
+    "Circuitjudge":3,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"uscc (1869)"
+  },
+  {
+    "songername":"ACHESON, MARCUS W.",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the third circuit",
+    "AppointmentDate":"16jun1891",
+    "TerminationDate":"21jun1906",
+    "Circuitjudge":3,
+    "partyaffiliationofpresident":"Assignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"BOND, HUGH LENNOX",
+    "Term":1,
+    "courtname":"u. s. circuit courts for the fourth circuit",
+    "AppointmentDate":"13jul1870",
+    "TerminationDate":"24oct1893",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"uscc (1869)"
+  },
+  {
+    "songername":"BOND, HUGH LENNOX",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the fourth circuit",
+    "AppointmentDate":"16jun1891",
+    "TerminationDate":"24oct1893",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Assignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"CALDWELL, HENRY C.",
+    "Term":1,
+    "courtname":"u. s. district court, western district of arkansas",
+    "AppointmentDate":"20jun1864",
+    "TerminationDate":"03mar1871",
+    "Circuitjudge":8,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"CALDWELL, HENRY C.",
+    "Term":2,
+    "courtname":"u. s. district court, eastern district of arkansas",
+    "AppointmentDate":"20jun1864",
+    "TerminationDate":"13mar1890",
+    "Circuitjudge":8,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"CALDWELL, HENRY C.",
+    "Term":3,
+    "courtname":"u. s. circuit courts for the eighth circuit",
+    "AppointmentDate":"04mar1890",
+    "TerminationDate":"04jun1903",
+    "Circuitjudge":8,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"uscc (1869)"
+  },
+  {
+    "songername":"CALDWELL, HENRY C.",
+    "Term":4,
+    "courtname":"u. s. court of appeals for the eighth circuit",
+    "AppointmentDate":"16jun1891",
+    "TerminationDate":"04jun1903",
+    "Circuitjudge":8,
+    "partyaffiliationofpresident":"Assignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"COLT, LEBARON B.",
+    "Term":1,
+    "courtname":"u. s. district court, district of rhode island",
+    "AppointmentDate":"21mar1881",
+    "TerminationDate":"23jul1884",
+    "Circuitjudge":1,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"COLT, LEBARON B.",
+    "Term":2,
+    "courtname":"u. s. circuit courts for the first circuit",
+    "AppointmentDate":"05jul1884",
+    "TerminationDate":"31dec1911",
+    "Circuitjudge":1,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"uscc (1869)"
+  },
+  {
+    "songername":"COLT, LEBARON B.",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the first circuit",
+    "AppointmentDate":"16jun1891",
+    "TerminationDate":"07feb1913",
+    "Circuitjudge":1,
+    "partyaffiliationofpresident":"Assignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"DRUMMOND, THOMAS",
+    "Term":1,
+    "courtname":"u. s. district court, district of illinois",
+    "AppointmentDate":"19feb1850",
+    "TerminationDate":"13feb1855",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Whig",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"DRUMMOND, THOMAS",
+    "Term":2,
+    "courtname":"u. s. district court, northern district of illinois",
+    "AppointmentDate":"13feb1855",
+    "TerminationDate":"22dec1869",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"DRUMMOND, THOMAS",
+    "Term":3,
+    "courtname":"u. s. circuit courts for the seventh circuit",
+    "AppointmentDate":"22dec1869",
+    "TerminationDate":"18jul1884",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"uscc (1869)"
+  },
+  {
+    "songername":"GRESHAM, WALTER QUINTIN",
+    "Term":1,
+    "courtname":"u. s. district court, district of indiana",
+    "AppointmentDate":"21dec1869",
+    "TerminationDate":"09apr1883",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"GRESHAM, WALTER QUINTIN",
+    "Term":2,
+    "courtname":"u. s. circuit courts for the seventh circuit",
+    "AppointmentDate":"09dec1884",
+    "TerminationDate":"03mar1893",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"uscc (1869)"
+  },
+  {
+    "songername":"GRESHAM, WALTER QUINTIN",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the seventh circuit",
+    "AppointmentDate":"16jun1891",
+    "TerminationDate":"03mar1893",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Assignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"JACKSON, HOWELL EDMUNDS",
+    "Term":1,
+    "courtname":"u. s. circuit courts for the sixth circuit",
+    "AppointmentDate":"12apr1886",
+    "TerminationDate":"04mar1893",
+    "Circuitjudge":6,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"uscc (1869)"
+  },
+  {
+    "songername":"JACKSON, HOWELL EDMUNDS",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the sixth circuit",
+    "AppointmentDate":"16jun1891",
+    "TerminationDate":"04mar1893",
+    "Circuitjudge":6,
+    "partyaffiliationofpresident":"Assignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"JACKSON, HOWELL EDMUNDS",
+    "Term":3,
+    "courtname":"supreme court of the united states",
+    "AppointmentDate":"18feb1893",
+    "TerminationDate":"08aug1895",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"ussc"
+  },
+  {
+    "songername":"KNAPP, MARTIN A.",
+    "Term":1,
+    "courtname":"u. s. circuit courts for the second circuit",
+    "AppointmentDate":"20dec1910",
+    "TerminationDate":"31dec1911",
+    "Circuitjudge":2,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"uscc (1869)"
+  },
+  {
+    "songername":"KNAPP, MARTIN A.",
+    "Term":2,
+    "courtname":"commerce court",
+    "AppointmentDate":"20dec1910",
+    "TerminationDate":"13dec1913",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"other"
+  },
+  {
+    "songername":"KNAPP, MARTIN A.",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the second circuit",
+    "AppointmentDate":"20dec1910",
+    "TerminationDate":"01jan1916",
+    "Circuitjudge":2,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usca"
+  },
+  {
+    "songername":"KNAPP, MARTIN A.",
+    "Term":4,
+    "courtname":"u. s. court of appeals for the fourth circuit",
+    "AppointmentDate":"01jan1916",
+    "TerminationDate":"10feb1923",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"LACOMBE, EMILE HENRY",
+    "Term":1,
+    "courtname":"u. s. circuit courts for the second circuit",
+    "AppointmentDate":"28feb1888",
+    "TerminationDate":"31dec1911",
+    "Circuitjudge":2,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"uscc (1869)"
+  },
+  {
+    "songername":"LACOMBE, EMILE HENRY",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the second circuit",
+    "AppointmentDate":"16jun1891",
+    "TerminationDate":"15feb1916",
+    "Circuitjudge":2,
+    "partyaffiliationofpresident":"Assignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"MACK, JULIAN",
+    "Term":1,
+    "courtname":"u. s. circuit courts for the seventh circuit",
+    "AppointmentDate":"31jan1911",
+    "TerminationDate":"31dec1911",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"uscc (1869)"
+  },
+  {
+    "songername":"MACK, JULIAN",
+    "Term":2,
+    "courtname":"commerce court",
+    "AppointmentDate":"31jan1911",
+    "TerminationDate":"13dec1913",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"other"
+  },
+  {
+    "songername":"MACK, JULIAN",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the seventh circuit",
+    "AppointmentDate":"31jan1911",
+    "TerminationDate":"30jun1929",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usca"
+  },
+  {
+    "songername":"MACK, JULIAN",
+    "Term":4,
+    "courtname":"u. s. court of appeals for the sixth circuit",
+    "AppointmentDate":"01jul1929",
+    "TerminationDate":"30jun1930",
+    "Circuitjudge":6,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"MACK, JULIAN",
+    "Term":5,
+    "courtname":"u. s. court of appeals for the second circuit",
+    "AppointmentDate":"01jul1929",
+    "TerminationDate":"05sep1943",
+    "Circuitjudge":2,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"PARDEE, DON A.",
+    "Term":1,
+    "courtname":"u. s. circuit courts for the fifth circuit",
+    "AppointmentDate":"13may1881",
+    "TerminationDate":"31dec1911",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"uscc (1869)"
+  },
+  {
+    "songername":"PARDEE, DON A.",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"16jun1891",
+    "TerminationDate":"26sep1919",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Assignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"SAWYER, LORENZO",
+    "Term":1,
+    "courtname":"u. s. circuit courts for the ninth circuit",
+    "AppointmentDate":"10jan1870",
+    "TerminationDate":"07sep1891",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"uscc (1869)"
+  },
+  {
+    "songername":"SAWYER, LORENZO",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the ninth circuit",
+    "AppointmentDate":"16jun1891",
+    "TerminationDate":"07sep1891",
+    "Circuitjudge":9,
+    "partyaffiliationofpresident":"Assignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"WALLACE, WILLIAM JAMES",
+    "Term":1,
+    "courtname":"u. s. district court, northern district of new york",
+    "AppointmentDate":"07apr1874",
+    "TerminationDate":"25apr1882",
+    "Circuitjudge":2,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"WALLACE, WILLIAM JAMES",
+    "Term":2,
+    "courtname":"u. s. circuit courts for the second circuit",
+    "AppointmentDate":"06apr1882",
+    "TerminationDate":"08may1907",
+    "Circuitjudge":2,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"uscc (1869)"
+  },
+  {
+    "songername":"WALLACE, WILLIAM JAMES",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the second circuit",
+    "AppointmentDate":"16jun1891",
+    "TerminationDate":"08may1907",
+    "Circuitjudge":2,
+    "partyaffiliationofpresident":"Assignment",
+    "courttype":"usca"
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "songername":"ANDERSON, R. LANIER, III",
+    "Term":1,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"13jul1979",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usca"
+  },
+  {
+    "songername":"ANDERSON, R. LANIER, III",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":null,
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"CLARK, THOMAS A.",
+    "Term":1,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"02nov1979",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usca"
+  },
+  {
+    "songername":"CLARK, THOMAS A.",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":"04sep2005",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"COTTERALL, JOHN H.",
+    "Term":1,
+    "courtname":"u. s. district court, western district of oklahoma",
+    "AppointmentDate":"13jan1908",
+    "TerminationDate":"23may1928",
+    "Circuitjudge":10,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"COTTERALL, JOHN H.",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the eighth circuit",
+    "AppointmentDate":"23may1928",
+    "TerminationDate":"28mar1929",
+    "Circuitjudge":8,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usca"
+  },
+  {
+    "songername":"COTTERALL, JOHN H.",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the tenth circuit",
+    "AppointmentDate":"28mar1929",
+    "TerminationDate":"22apr1933",
+    "Circuitjudge":10,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"DYER, DAVID W.",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of florida",
+    "AppointmentDate":"18sep1961",
+    "TerminationDate":"22sep1966",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"DYER, DAVID W.",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"25aug1966",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usca"
+  },
+  {
+    "songername":"DYER, DAVID W.",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":"07jun1998",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"FAY, PETER T.",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of florida",
+    "AppointmentDate":"16oct1970",
+    "TerminationDate":"08oct1976",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"FAY, PETER T.",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"21sep1976",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usca"
+  },
+  {
+    "songername":"FAY, PETER T.",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":null,
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"GODBOLD, JOHN",
+    "Term":1,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"22jul1966",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usca"
+  },
+  {
+    "songername":"GODBOLD, JOHN",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":"22dec2009",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"HATCHETT, JOSEPH W.",
+    "Term":1,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"13jul1979",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usca"
+  },
+  {
+    "songername":"HATCHETT, JOSEPH W.",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":"14may1999",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"HENDERSON, ALBERT J.",
+    "Term":1,
+    "courtname":"u. s. district court, northern district of georgia",
+    "AppointmentDate":"11oct1968",
+    "TerminationDate":"26jul1979",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HENDERSON, ALBERT J.",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"13jul1979",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usca"
+  },
+  {
+    "songername":"HENDERSON, ALBERT J.",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":"11may1999",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"HILL, JAMES C.",
+    "Term":1,
+    "courtname":"u. s. district court, northern district of georgia",
+    "AppointmentDate":"09aug1974",
+    "TerminationDate":"26may1976",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"HILL, JAMES C.",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"21may1976",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usca"
+  },
+  {
+    "songername":"HILL, JAMES C.",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":null,
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"JOHNSON, FRANK M.",
+    "Term":1,
+    "courtname":"u. s. district court, middle district of alabama",
+    "AppointmentDate":"01feb1956",
+    "TerminationDate":"12jul1979",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"JOHNSON, FRANK M.",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"21jun1979",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usca"
+  },
+  {
+    "songername":"JOHNSON, FRANK M.",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":"23jul1999",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"JONES, WARREN",
+    "Term":1,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"21apr1955",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usca"
+  },
+  {
+    "songername":"JONES, WARREN",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":"11nov1993",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"KNAPP, MARTIN A.",
+    "Term":1,
+    "courtname":"u. s. circuit courts for the second circuit",
+    "AppointmentDate":"20dec1910",
+    "TerminationDate":"31dec1911",
+    "Circuitjudge":2,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"uscc (1869)"
+  },
+  {
+    "songername":"KNAPP, MARTIN A.",
+    "Term":2,
+    "courtname":"commerce court",
+    "AppointmentDate":"20dec1910",
+    "TerminationDate":"13dec1913",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"other"
+  },
+  {
+    "songername":"KNAPP, MARTIN A.",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the second circuit",
+    "AppointmentDate":"20dec1910",
+    "TerminationDate":"01jan1916",
+    "Circuitjudge":2,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usca"
+  },
+  {
+    "songername":"KNAPP, MARTIN A.",
+    "Term":4,
+    "courtname":"u. s. court of appeals for the fourth circuit",
+    "AppointmentDate":"01jan1916",
+    "TerminationDate":"10feb1923",
+    "Circuitjudge":4,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"KRAVITCH, PHYLLIS A.",
+    "Term":1,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"23mar1979",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usca"
+  },
+  {
+    "songername":"KRAVITCH, PHYLLIS A.",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":null,
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"LEWIS, ROBERT E.",
+    "Term":1,
+    "courtname":"u. s. district court, district of colorado",
+    "AppointmentDate":"10apr1906",
+    "TerminationDate":"01dec1921",
+    "Circuitjudge":10,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"LEWIS, ROBERT E.",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the eighth circuit",
+    "AppointmentDate":"15nov1921",
+    "TerminationDate":"28mar1929",
+    "Circuitjudge":8,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usca"
+  },
+  {
+    "songername":"LEWIS, ROBERT E.",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the tenth circuit",
+    "AppointmentDate":"28mar1929",
+    "TerminationDate":"31jul1941",
+    "Circuitjudge":10,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"MACK, JULIAN",
+    "Term":1,
+    "courtname":"u. s. circuit courts for the seventh circuit",
+    "AppointmentDate":"31jan1911",
+    "TerminationDate":"31dec1911",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"uscc (1869)"
+  },
+  {
+    "songername":"MACK, JULIAN",
+    "Term":2,
+    "courtname":"commerce court",
+    "AppointmentDate":"31jan1911",
+    "TerminationDate":"13dec1913",
+    "Circuitjudge":13,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"other"
+  },
+  {
+    "songername":"MACK, JULIAN",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the seventh circuit",
+    "AppointmentDate":"31jan1911",
+    "TerminationDate":"30jun1929",
+    "Circuitjudge":7,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usca"
+  },
+  {
+    "songername":"MACK, JULIAN",
+    "Term":4,
+    "courtname":"u. s. court of appeals for the sixth circuit",
+    "AppointmentDate":"01jul1929",
+    "TerminationDate":"30jun1930",
+    "Circuitjudge":6,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"MACK, JULIAN",
+    "Term":5,
+    "courtname":"u. s. court of appeals for the second circuit",
+    "AppointmentDate":"01jul1929",
+    "TerminationDate":"05sep1943",
+    "Circuitjudge":2,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"MORGAN, LEWIS RENDER",
+    "Term":1,
+    "courtname":"u. s. district court, northern district of georgia",
+    "AppointmentDate":"10aug1961",
+    "TerminationDate":"02aug1968",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"MORGAN, LEWIS RENDER",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"25jul1968",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usca"
+  },
+  {
+    "songername":"MORGAN, LEWIS RENDER",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":"15nov2001",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"RIVES, RICHARD",
+    "Term":1,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"03may1951",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usca"
+  },
+  {
+    "songername":"RIVES, RICHARD",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":"27oct1982",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"RONEY, PAUL H.",
+    "Term":1,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"16oct1970",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usca"
+  },
+  {
+    "songername":"RONEY, PAUL H.",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":"16sep2006",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"SIMPSON, JOHN MILTON BRYAN",
+    "Term":1,
+    "courtname":"u. s. district court, southern district of florida",
+    "AppointmentDate":"26sep1950",
+    "TerminationDate":"29oct1962",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"SIMPSON, JOHN MILTON BRYAN",
+    "Term":2,
+    "courtname":"u. s. district court, middle district of florida",
+    "AppointmentDate":"29oct1962",
+    "TerminationDate":"22nov1966",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"SIMPSON, JOHN MILTON BRYAN",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"03nov1966",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usca"
+  },
+  {
+    "songername":"SIMPSON, JOHN MILTON BRYAN",
+    "Term":4,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":"22aug1987",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"STEPHENS, HAROLD M.",
+    "Term":1,
+    "courtname":"u. s. court of appeals for the district of columbia circuit",
+    "AppointmentDate":"27jul1935",
+    "TerminationDate":"09mar1948",
+    "Circuitjudge":12,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usca"
+  },
+  {
+    "songername":"STEPHENS, HAROLD M.",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the district of columbia circuit, chief justice",
+    "AppointmentDate":"05mar1948",
+    "TerminationDate":"01sep1948",
+    "Circuitjudge":12,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usca"
+  },
+  {
+    "songername":"STEPHENS, HAROLD M.",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the district of columbia circuit",
+    "AppointmentDate":"01sep1948",
+    "TerminationDate":"28may1955",
+    "Circuitjudge":12,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"TJOFLAT, GERALD B.",
+    "Term":1,
+    "courtname":"u. s. district court, middle district of florida",
+    "AppointmentDate":"16oct1970",
+    "TerminationDate":"12dec1975",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usdc"
+  },
+  {
+    "songername":"TJOFLAT, GERALD B.",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"21nov1975",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usca"
+  },
+  {
+    "songername":"TJOFLAT, GERALD B.",
+    "Term":3,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":null,
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"TUTTLE, ELBERT PARR",
+    "Term":1,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"04aug1954",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Republican",
+    "courttype":"usca"
+  },
+  {
+    "songername":"TUTTLE, ELBERT PARR",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":"23jun1996",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  },
+  {
+    "songername":"VANCE, ROBERT S.",
+    "Term":1,
+    "courtname":"u. s. court of appeals for the fifth circuit",
+    "AppointmentDate":"15dec1977",
+    "TerminationDate":"01oct1981",
+    "Circuitjudge":5,
+    "partyaffiliationofpresident":"Democratic",
+    "courttype":"usca"
+  },
+  {
+    "songername":"VANCE, ROBERT S.",
+    "Term":2,
+    "courtname":"u. s. court of appeals for the eleventh circuit",
+    "AppointmentDate":"01oct1981",
+    "TerminationDate":"16dec1989",
+    "Circuitjudge":11,
+    "partyaffiliationofpresident":"Reassignment",
+    "courttype":"usca"
+  }
+]

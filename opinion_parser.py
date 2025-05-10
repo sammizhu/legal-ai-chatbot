@@ -45,7 +45,7 @@ Process all legal opinion files in a directory.
 Returns a list of dicts with chunked text and metadata for each file.
 """
 all_chunks = []
-directory = "judge_opinions"
+directory = "data/judge_opinions"
 for filename in os.listdir(directory):
     if filename.endswith(".txt"):
         with open(os.path.join(directory, filename), 'r', encoding='utf-8') as f:
